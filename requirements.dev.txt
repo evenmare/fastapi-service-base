@@ -1,0 +1,7 @@
+-r requirements.txt
+
+pylint
+pylint-pydantic
+
+pytest
+pytest-env
